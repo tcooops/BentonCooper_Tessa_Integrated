@@ -98,19 +98,19 @@ text-decoration:none;
 
 .mainNav ul li a
 {
-  color: #2073a8;
+  color: #565656;
   padding: 5px;
 }
 
 .mainNav ul li a:hover {
   padding: 5px;
-  background-color: #ddeff7;
+  background-color: #eee;
 }
 
 .selected
 {
   padding: 5px 0px 5px 0px;
-  background-color: #ddeff7;
+  background-color: #ccc;
 }
 
 /*-- End Header --*/
@@ -160,7 +160,7 @@ text-decoration:none;
 
 /*-- Start Index --*/
 
-.resources
+.flooringTypes
 {
   display: flex;
   flex-direction: row;
@@ -169,7 +169,7 @@ text-decoration:none;
   margin-bottom: 30px;
 }
 
-.resources p
+.flooringTypes p
 {
   margin-top: 20px;
   line-height: 22px;
@@ -177,7 +177,7 @@ text-decoration:none;
   font-size: 16px;
 }
 
-.packages, .fish, .donations
+.hardwood, .tile, .carpet, .laminate, .other
 {
   color: #fff;
   width: 300px;

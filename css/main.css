@@ -22,7 +22,7 @@ padding: 0;
 /*html selectors*/
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: font-family: Palatino Linotype, "Book Antiqua", Palatino, serif;
   font-size: 14px;
   color: #565656;
   background-color: #fff;
@@ -128,7 +128,7 @@ text-decoration:none;
 }
 
 .heroIndex {
-  background: url(../images/home_header.jpg) no-repeat bottom; 
+  background: url(../images/banner_index.png) no-repeat bottom; 
 }
 
 .heroGallery {
@@ -181,6 +181,7 @@ text-decoration:none;
 {
   color: #fff;
   width: 300px;
+  padding: 10px;
 }
 
 .resBut
@@ -212,7 +213,7 @@ text-decoration:none;
 {
   background-color: #efefef;
   width: 460px;
-  height: 170px;
+  height: 190px;
   margin-bottom: 20px;
 }
 
@@ -232,12 +233,12 @@ text-decoration:none;
   margin-right: 10px;
 }
 
-.testimonialName
-{
+.testName {
+  text-align: right;
   display: block;
-  font-weight:bold;
+  font-weight: bolder;
   margin-top: 15px;
-  color: #61a3c1;
+  color: #565656;
 }
 
 /*-- End Index --*/
@@ -397,7 +398,7 @@ input, textarea  {
   background-color: #ccc;
   justify-content: flex-start;
   height: 125px;
-  background: url(../images/footer_bg.jpg) repeat-x;
+  background: url(../images/footer.png) repeat-x;
 }
 
 .logoNav {
@@ -417,11 +418,20 @@ input, textarea  {
   margin-left: 20px;
 }
 
+/* .footerNav {
+  background-color: transparent;
+  overflow: hidden;
+  position: static;
+  bottom: 0;
+  margin-left: 50px;
+  width: 100%;
+}*/
+
 .footerNav ul {
   padding: 0;
   list-style-type: none;
-  width: 500px;
-  margin-left: 0;
+  width: 300px;
+  margin-left: 30px;
 }
 
 .footerNav ul li { 

@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="-85 109 45 45" style="enable-background:new -85 109 45 45;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#29A7DF;}
-	.st1{fill:#FFFFFF;}
-</style>
-<rect x="-85" y="109" class="st0" width="45" height="45"/>
-<path class="st1" d="M-47.5,122.2c-1.1,0.5-2.3,0.8-3.5,1c1.3-0.8,2.2-2,2.7-3.4c-1.2,0.7-2.5,1.2-3.9,1.5c-1.1-1.2-2.7-1.9-4.5-1.9
-	c-3.4,0-6.2,2.8-6.2,6.2c0,0.5,0.1,1,0.2,1.4c-5.1-0.3-9.6-2.7-12.7-6.4c-0.5,0.9-0.8,2-0.8,3.1c0,2.1,1.1,4,2.7,5.1
-	c-1,0-2-0.3-2.8-0.8v0.1c0,3,2.1,5.5,4.9,6c-0.5,0.1-1.1,0.2-1.6,0.2c-0.4,0-0.8,0-1.2-0.1c0.8,2.4,3.1,4.2,5.7,4.3
-	c-2.1,1.6-4.8,2.6-7.6,2.6c-0.5,0-1,0-1.5-0.1c2.7,1.7,6,2.8,9.4,2.8c11.3,0,17.5-9.4,17.5-17.5c0-0.3,0-0.5,0-0.8
-	C-49.4,124.5-48.3,123.4-47.5,122.2z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48"><defs><style>.cls-1{fill:#2daae1;}.cls-2{fill:#fff;}.cls-3{opacity:0.4;fill:url(#linear-gradient);}</style><linearGradient id="linear-gradient" x1="24" y1="27.22" x2="24" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="0.09" stop-color="#fff" stop-opacity="0.97"/><stop offset="0.22" stop-color="#fff" stop-opacity="0.88"/><stop offset="0.38" stop-color="#fff" stop-opacity="0.74"/><stop offset="0.57" stop-color="#fff" stop-opacity="0.54"/><stop offset="0.79" stop-color="#fff" stop-opacity="0.29"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs><title>Asset 4</title><g id="Layer_2" data-name="Layer 2"><g id="Icons"><path class="cls-1" d="M48,24A24,24,0,1,1,24,0,24,24,0,0,1,48,24Z"/><path class="cls-2" d="M38.18,13.44a12.3,12.3,0,0,1-3.91,1.47A6.21,6.21,0,0,0,29.78,13a6.11,6.11,0,0,0-6.16,6.06,6.28,6.28,0,0,0,.16,1.38,17.58,17.58,0,0,1-12.69-6.33,5.93,5.93,0,0,0-.83,3.05,6,6,0,0,0,2.74,5,6.24,6.24,0,0,1-2.79-.76v.08a6.09,6.09,0,0,0,4.94,5.94,6.28,6.28,0,0,1-2.78.1,6.14,6.14,0,0,0,5.75,4.21,12.51,12.51,0,0,1-7.65,2.59A14.32,14.32,0,0,1,9,34.28,17.64,17.64,0,0,0,18.44,37,17.25,17.25,0,0,0,36,19.76c0-.26,0-.52,0-.78A12.55,12.55,0,0,0,39,15.84a12.35,12.35,0,0,1-3.54.95A6.05,6.05,0,0,0,38.18,13.44Z"/><path class="cls-3" d="M24.07,0A24,24,0,0,0,.25,21.07c2,4.21,7.66,10.24,23.82,2.17,16.88-8.43,18.82-5.57,23.69-3A24,24,0,0,0,24.07,0Z"/></g></g></svg>

@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>MH Floors</title>  
+  <title>MH Floors- Contact Us</title>  
   <link rel="stylesheet" href="css/main.css">  
   <link rel="stylesheet" href="css/reset.css">
 </head>
 <body>
   <div class="container">
-    <h1 class="hidden">MH Floors-Home</h1>
+    <h1 class="hidden">MH Floors-Contact</h1>
     <header class="mainHeader">
       <div class="logoHeader">
         <img src="images/logo_header.svg" alt="MH Floors Logo" width="250" height="70" id="logo">
@@ -24,46 +24,47 @@
     </header>
 
         <section class="hero heroContact">
-          <h2>DISCOVER A NEW WORLD BENEATH THE OCEAN</h2>
-          <h3>Akumal offers an abundance of marine life for you to experience</h3>
+          <h2>CONTACT US</h2>
+          <br><br><br>
         </section>  
         <main>
+          <h2 class="hidden">Contact Information</h2>
         <section id="mainContact"> <!--start mainGallery-->
-                    <h2>Contact Us</h2>
+          <h2 class="hidden"> Contact Information Cont'd</h2>
         	<section id="contactArea"><!--start contactArea-->
-                <h2 class="hidden">Contact form</h2>
-                <p id="contactText">For more information about our various packages or to book a trip please use the form below.
-            </p> 
+                <h3 id="subHeader">Get in touch!</h3>
+                <p id="contactText">Contact us if you have any questions or if you would like to book an appointment for a free estimate. We will do our best to reply within one business day.</p>
             <form id="contactForm" action="form.php" method="post">
-                    <label for="name">Name: (required)</label>
-                    <input type="text" required id="name" name="fullName" size="30" placeholder="Enter your name">
-                    
-                    <label for="email">Email: (will not be published)</label>
-                    <input type="email" required id="email" size="30" placeholder="Enter your Email">
-                    
-                    
-                    <label for="phone">Phone: (required)</label>
-                    <input type="tel" required id="phone" size="30" placeholder="Enter Phone Number">
-                    
-                    <label for="comments">Comments:</label>
-                    <textarea name="comments" id="comments" required cols="50" rows="8"></textarea>
-                    
-                    <label for="human">What is 5 + 4?</label>
+                    <input type="text" required id="name" name="fullName" size="30" placeholder="First and last name">
+                    <input type="email" required id="email" size="30" placeholder="Email">
+                    <input type="tel" required id="phone" size="30" placeholder="Phone Number">
+                      <select name="selectFlooring">
+                            <option value="select">Select flooring type</option>
+                            <option value="hardwood">Hardwood</option>
+                            <option value="tile">Tile</option>
+                            <option value="carpet">Carpet</option>
+                            <option value="laminate">Laminate</option>
+                            <option value="other">Other</option>
+                      </select>
+                    <textarea name="comments" id="comments" placeholder="How can we help?" required cols="50" rows="8"></textarea>
                     <input type="text" required id="human" size="30" placeholder="What is 5 + 4?">
-                   
-                    <input id="submit" type="submit" value="Submit">
+                    <input class="submit" type="submit" value="Submit">
+                    <p class="confidential">All your information will be kept confidential</p>
             </form>
-        	</section><!--end contactArea-->  
+        	</section>
+
+          <!--end contactArea-->  
             
             <section id="mapArea"><!--start mapArea-->
-            	<h3>Visit Us</h3>
+            	<h3 id="subHeader">Visit Us</h3>
                 <ul>
-                	<li>Akumal Riviera Maya, </li>
-					<li>Quintana Roo; México </li>
-					<li>Phone: 1-800-GO-SNORKEL</li>
-					<li>Fax: 1-800-MO-SNORKEL</li>
-                </ul>    
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3739.668692682126!2d-87.31556493519379!3d20.396545686344272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e36ad65c18ee5%3A0xf6ab9f43a21e7274!2sAkumal%2C+Quintana+Roo%2C+Mexico!5e0!3m2!1sen!2sca!4v1472154631171" width="380" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+                	 <li>Matthew Henshaw Floors</li>
+                   <li>Brantford, Ontario, Canada </li>
+                   <li>N3P 2A6</li>
+					         <li>Tel: 1-800-MH-FLOOR (463-5667)</li>
+                   <li><br><br><hr><br><br></li>
+                </ul>   
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d93150.38786775676!2d-80.34410534461958!3d43.14758719009604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882c65e278ea730f%3A0x353da5a5a466f9e0!2sBrantford%2C%20ON!5e0!3m2!1sen!2sca!4v1575844018214!5m2!1sen!2sca" width="360" height="360" frameborder="0" allowfullscreen=""></iframe>
             </section><!--end mapArea-->      
         </section><!--end mainContact-->
     </main>
